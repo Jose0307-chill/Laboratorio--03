@@ -3,4 +3,4 @@
 | Nombre | Carnet |
 |------------------|-----------|
 | José Méndez | 1101226 |
-| Persona 2 | 654321 |
+| Erick De Leon | 1192926 |
